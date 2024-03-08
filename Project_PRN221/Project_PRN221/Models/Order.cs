@@ -1,7 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 
-namespace ProjectPRN221.Models
+namespace Project_PRN221.Models
 {
     public partial class Order
     {
@@ -10,7 +11,9 @@ namespace ProjectPRN221.Models
             OrderItems = new HashSet<OrderItem>();
         }
 
+        [Key]
         public int OrderId { get; set; }
+
         public int? CustomerId { get; set; }
         public DateTime? OrderDate { get; set; }
         public string? Status { get; set; }

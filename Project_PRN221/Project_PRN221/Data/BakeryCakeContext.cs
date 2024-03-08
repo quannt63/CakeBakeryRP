@@ -6,12 +6,20 @@ using System.Data;
 
 namespace Project_PRN221.Data
 {
-    public class ApplicationDbContext : IdentityDbContext<AppUser>
+    public class BakeryCakeContext : IdentityDbContext<AppUser>
     {
-        public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options)
+        public BakeryCakeContext(DbContextOptions<BakeryCakeContext> options)
             : base(options)
         {
         }
+        public DbSet<Blog> Blogs { get; set; }
+        public DbSet<Category> Categories { get; set; }
+        public DbSet<Comment> Comments { get; set; }
+        public DbSet<Contact> Contacts { get; set; }
+        public DbSet<Feedback> Feedbacks { get; set; }
+        public DbSet<Order> Orders { get; set; }
+        public DbSet<OrderItem> OrderItems { get; set; }
+        public DbSet<Product> Products { get; set; }
         protected override void OnModelCreating(ModelBuilder builder)
         {
             base.OnModelCreating(builder);

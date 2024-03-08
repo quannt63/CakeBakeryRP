@@ -1,6 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 
-namespace ProjectPRN221
+namespace Project_PRN221
 {
     public class PaginatedList<T> : List<T>
     {

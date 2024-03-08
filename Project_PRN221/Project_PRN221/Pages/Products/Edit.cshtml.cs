@@ -6,15 +6,16 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
-using ProjectPRN221.Models;
+using Project_PRN221.Models;
+using Project_PRN221.Data;
 
-namespace ProjectPRN221.Pages.Products
+namespace Project_PRN221.Pages.Products
 {
     public class EditModel : PageModel
     {
-        private readonly ProjectPRN221.Models.BakeryCakeContext _context;
+        private readonly BakeryCakeContext _context;
 
-        public EditModel(ProjectPRN221.Models.BakeryCakeContext context)
+        public EditModel(BakeryCakeContext context)
         {
             _context = context;
         }
@@ -29,13 +30,13 @@ namespace ProjectPRN221.Pages.Products
                 return NotFound();
             }
 
-            var product =  await _context.Products.FirstOrDefaultAsync(m => m.ProductId == id);
+            var product = await _context.Products.FirstOrDefaultAsync(m => m.ProductId == id);
             if (product == null)
             {
                 return NotFound();
             }
             Product = product;
-           ViewData["CategoryId"] = new SelectList(_context.Categories, "CategoryId", "CategoryId");
+            ViewData["CategoryId"] = new SelectList(_context.Categories, "CategoryId", "CategoryId");
             return Page();
         }
 
@@ -71,7 +72,7 @@ namespace ProjectPRN221.Pages.Products
 
         private bool ProductExists(int id)
         {
-          return (_context.Products?.Any(e => e.ProductId == id)).GetValueOrDefault();
+            return (_context.Products?.Any(e => e.ProductId == id)).GetValueOrDefault();
         }
     }
 }

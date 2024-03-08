@@ -1,7 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 
-namespace ProjectPRN221.Models
+namespace Project_PRN221.Models
 {
     public partial class Category
     {
@@ -9,7 +10,7 @@ namespace ProjectPRN221.Models
         {
             Products = new HashSet<Product>();
         }
-
+        [Key]
         public int CategoryId { get; set; }
         public string? Name { get; set; }
 

@@ -6,15 +6,16 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
-using ProjectPRN221.Models;
+using Project_PRN221.Models;
+using Project_PRN221.Data;
 
-namespace ProjectPRN221.Pages.Blogs
+namespace Project_PRN221.Pages.Blogs
 {
     public class EditModel : PageModel
     {
-        private readonly ProjectPRN221.Models.BakeryCakeContext _context;
+        private readonly BakeryCakeContext _context;
 
-        public EditModel(ProjectPRN221.Models.BakeryCakeContext context)
+        public EditModel(BakeryCakeContext context)
         {
             _context = context;
         }
@@ -29,13 +30,13 @@ namespace ProjectPRN221.Pages.Blogs
                 return NotFound();
             }
 
-            var blog =  await _context.Blogs.FirstOrDefaultAsync(m => m.BlogId == id);
+            var blog = await _context.Blogs.FirstOrDefaultAsync(m => m.BlogId == id);
             if (blog == null)
             {
                 return NotFound();
             }
             Blog = blog;
-           ViewData["CreateBy"] = new SelectList(_context.Users, "UserId", "UserId");
+            ViewData["CreateBy"] = new SelectList(_context.Users, "UserId", "UserId");
             return Page();
         }
 
@@ -71,7 +72,7 @@ namespace ProjectPRN221.Pages.Blogs
 
         private bool BlogExists(int id)
         {
-          return (_context.Blogs?.Any(e => e.BlogId == id)).GetValueOrDefault();
+            return (_context.Blogs?.Any(e => e.BlogId == id)).GetValueOrDefault();
         }
     }
 }

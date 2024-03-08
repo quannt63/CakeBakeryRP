@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace ProjectPRN221.Models
+namespace Project_PRN221.Models
 {
     public partial class User
     {
@@ -13,18 +13,18 @@ namespace ProjectPRN221.Models
             Orders = new HashSet<Order>();
         }
 
-        public int UserId { get; set; }
-        public string? UserName { get; set; }
-        public string? Password { get; set; }
-        public string? Name { get; set; }
-        public string? Phone { get; set; }
-        public string? Mail { get; set; }
+        public int UserId { get; set; } //
+        public string? UserName { get; set; }//
+        public string? Password { get; set; }//
+        public string? Name { get; set; }//
+        public string? Phone { get; set; }//
+        public string? Mail { get; set; }//
         public bool? Sex { get; set; }
         public DateTime? Dob { get; set; }
         public string? Avatar { get; set; }
-        public string? RoleName { get; set; }
-        public bool? IsActive { get; set; }
-        public string? Address { get; set; }
+        public string? RoleName { get; set; }//
+        public bool? IsActive { get; set; }//
+        public string? Address { get; set; }//
 
         public virtual ICollection<Blog> Blogs { get; set; }
         public virtual ICollection<Comment> Comments { get; set; }

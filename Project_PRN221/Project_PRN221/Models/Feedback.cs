@@ -1,10 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 
-namespace ProjectPRN221.Models
+namespace Project_PRN221.Models
 {
     public partial class Feedback
     {
+        [Key]
         public int FeadbackId { get; set; }
         public string? Description { get; set; }
         public int? Owner { get; set; }

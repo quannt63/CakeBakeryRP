@@ -5,15 +5,16 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.EntityFrameworkCore;
-using ProjectPRN221.Models;
+using Project_PRN221.Models;
+using Project_PRN221.Data;
 
-namespace ProjectPRN221.Pages.Products
+namespace Project_PRN221.Pages.Products
 {
     public class DeleteModel : PageModel
     {
-        private readonly ProjectPRN221.Models.BakeryCakeContext _context;
+        private readonly BakeryCakeContext _context;
 
-        public DeleteModel(ProjectPRN221.Models.BakeryCakeContext context)
+        public DeleteModel(BakeryCakeContext context)
         {
             _context = context;
         }
@@ -34,7 +35,7 @@ namespace ProjectPRN221.Pages.Products
             {
                 return NotFound();
             }
-            else 
+            else
             {
                 Product = product;
             }
@@ -43,18 +44,18 @@ namespace ProjectPRN221.Pages.Products
 
         public async Task<IActionResult> OnPostAsync(int? id)
         {
-            if (id == null || _context.Products == null)
-            {
-                return NotFound();
-            }
-            var product = await _context.Products.FindAsync(id);
+            //if (id == null || _context.Products == null)
+            //{
+            //    return NotFound();
+            //}
+            //var product = await _context.Products.FindAsync(id);
 
-            if (product != null)
-            {
-                Product = product;
-                _context.Products.Remove(Product);
-                await _context.SaveChangesAsync();
-            }
+            //if (product != null)
+            //{
+            //    Product = product;
+            //    _context.Products.Remove(Product);
+            //    await _context.SaveChangesAsync();
+            //}
 
             return RedirectToPage("./Index");
         }

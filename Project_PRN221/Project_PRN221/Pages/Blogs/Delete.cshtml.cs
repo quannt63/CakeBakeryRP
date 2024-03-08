@@ -5,15 +5,16 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.EntityFrameworkCore;
-using ProjectPRN221.Models;
+using Project_PRN221.Models;
+using Project_PRN221.Data;
 
-namespace ProjectPRN221.Pages.Blogs
+namespace Project_PRN221.Pages.Blogs
 {
     public class DeleteModel : PageModel
     {
-        private readonly ProjectPRN221.Models.BakeryCakeContext _context;
+        private readonly BakeryCakeContext _context;
 
-        public DeleteModel(ProjectPRN221.Models.BakeryCakeContext context)
+        public DeleteModel(BakeryCakeContext context)
         {
             _context = context;
         }
@@ -34,7 +35,7 @@ namespace ProjectPRN221.Pages.Blogs
             {
                 return NotFound();
             }
-            else 
+            else
             {
                 Blog = blog;
             }

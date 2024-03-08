@@ -1,7 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 
-namespace ProjectPRN221.Models
+namespace Project_PRN221.Models
 {
     public partial class Comment
     {
@@ -10,6 +11,7 @@ namespace ProjectPRN221.Models
             InverseParent = new HashSet<Comment>();
         }
 
+        [Key]
         public int CommentId { get; set; }
         public string? Description { get; set; }
         public int? BlogId { get; set; }
