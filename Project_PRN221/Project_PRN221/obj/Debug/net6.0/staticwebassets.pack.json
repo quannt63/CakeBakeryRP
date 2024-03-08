@@ -1,247 +1,1467 @@
 {
   "Files": [
     {
-      "Id": "F:\\PRN221\\Project_PRN221\\Project_PRN221\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Project_PRN221.bundle.scp.css",
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Project_PRN221.bundle.scp.css",
       "PackagePath": "staticwebassets\\Project_PRN221.bundle.scp.css"
     },
     {
-      "Id": "F:\\PRN221\\Project_PRN221\\Project_PRN221\\wwwroot\\css\\site.css",
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets1\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets1\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets1\\css\\bootstrap\\_media.css",
+      "PackagePath": "staticwebassets\\assets1\\css\\bootstrap\\_media.css"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets1\\css\\bootstrap\\mixins\\_border-radius.css",
+      "PackagePath": "staticwebassets\\assets1\\css\\bootstrap\\mixins\\_border-radius.css"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets1\\css\\bootstrap\\mixins\\_reset-text.css",
+      "PackagePath": "staticwebassets\\assets1\\css\\bootstrap\\mixins\\_reset-text.css"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets1\\css\\bootstrap\\mixins\\_screen-reader.css",
+      "PackagePath": "staticwebassets\\assets1\\css\\bootstrap\\mixins\\_screen-reader.css"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets1\\css\\bootstrap\\mixins\\_text-hide.css",
+      "PackagePath": "staticwebassets\\assets1\\css\\bootstrap\\mixins\\_text-hide.css"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets1\\css\\bootstrap\\mixins\\_visibility.css",
+      "PackagePath": "staticwebassets\\assets1\\css\\bootstrap\\mixins\\_visibility.css"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets1\\css\\bootstrap\\utilities\\_stretched-link.css",
+      "PackagePath": "staticwebassets\\assets1\\css\\bootstrap\\utilities\\_stretched-link.css"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets1\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets1\\css\\style.css"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets1\\images\\bg.jpg",
+      "PackagePath": "staticwebassets\\assets1\\images\\bg.jpg"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets1\\images\\bg1.jpg",
+      "PackagePath": "staticwebassets\\assets1\\images\\bg1.jpg"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets1\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets1\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets1\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\assets1\\js\\jquery.min.js"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets1\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets1\\js\\main.js"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets1\\js\\popper.js",
+      "PackagePath": "staticwebassets\\assets1\\js\\popper.js"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets1\\scss\\bootstrap\\_alert.scss",
+      "PackagePath": "staticwebassets\\assets1\\scss\\bootstrap\\_alert.scss"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets1\\scss\\bootstrap\\_badge.scss",
+      "PackagePath": "staticwebassets\\assets1\\scss\\bootstrap\\_badge.scss"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets1\\scss\\bootstrap\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\assets1\\scss\\bootstrap\\_breadcrumb.scss"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets1\\scss\\bootstrap\\_button-group.scss",
+      "PackagePath": "staticwebassets\\assets1\\scss\\bootstrap\\_button-group.scss"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets1\\scss\\bootstrap\\_buttons.scss",
+      "PackagePath": "staticwebassets\\assets1\\scss\\bootstrap\\_buttons.scss"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets1\\scss\\bootstrap\\_card.scss",
+      "PackagePath": "staticwebassets\\assets1\\scss\\bootstrap\\_card.scss"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets1\\scss\\bootstrap\\_carousel.scss",
+      "PackagePath": "staticwebassets\\assets1\\scss\\bootstrap\\_carousel.scss"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets1\\scss\\bootstrap\\_close.scss",
+      "PackagePath": "staticwebassets\\assets1\\scss\\bootstrap\\_close.scss"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets1\\scss\\bootstrap\\_code.scss",
+      "PackagePath": "staticwebassets\\assets1\\scss\\bootstrap\\_code.scss"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets1\\scss\\bootstrap\\_custom-forms.scss",
+      "PackagePath": "staticwebassets\\assets1\\scss\\bootstrap\\_custom-forms.scss"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets1\\scss\\bootstrap\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\assets1\\scss\\bootstrap\\_dropdown.scss"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets1\\scss\\bootstrap\\_forms.scss",
+      "PackagePath": "staticwebassets\\assets1\\scss\\bootstrap\\_forms.scss"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets1\\scss\\bootstrap\\_functions.scss",
+      "PackagePath": "staticwebassets\\assets1\\scss\\bootstrap\\_functions.scss"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets1\\scss\\bootstrap\\_grid.scss",
+      "PackagePath": "staticwebassets\\assets1\\scss\\bootstrap\\_grid.scss"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets1\\scss\\bootstrap\\_images.scss",
+      "PackagePath": "staticwebassets\\assets1\\scss\\bootstrap\\_images.scss"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets1\\scss\\bootstrap\\_input-group.scss",
+      "PackagePath": "staticwebassets\\assets1\\scss\\bootstrap\\_input-group.scss"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets1\\scss\\bootstrap\\_jumbotron.scss",
+      "PackagePath": "staticwebassets\\assets1\\scss\\bootstrap\\_jumbotron.scss"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets1\\scss\\bootstrap\\_list-group.scss",
+      "PackagePath": "staticwebassets\\assets1\\scss\\bootstrap\\_list-group.scss"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets1\\scss\\bootstrap\\_media.scss",
+      "PackagePath": "staticwebassets\\assets1\\scss\\bootstrap\\_media.scss"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets1\\scss\\bootstrap\\_mixins.scss",
+      "PackagePath": "staticwebassets\\assets1\\scss\\bootstrap\\_mixins.scss"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets1\\scss\\bootstrap\\_modal.scss",
+      "PackagePath": "staticwebassets\\assets1\\scss\\bootstrap\\_modal.scss"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets1\\scss\\bootstrap\\_nav.scss",
+      "PackagePath": "staticwebassets\\assets1\\scss\\bootstrap\\_nav.scss"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets1\\scss\\bootstrap\\_navbar.scss",
+      "PackagePath": "staticwebassets\\assets1\\scss\\bootstrap\\_navbar.scss"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets1\\scss\\bootstrap\\_pagination.scss",
+      "PackagePath": "staticwebassets\\assets1\\scss\\bootstrap\\_pagination.scss"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets1\\scss\\bootstrap\\_popover.scss",
+      "PackagePath": "staticwebassets\\assets1\\scss\\bootstrap\\_popover.scss"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets1\\scss\\bootstrap\\_print.scss",
+      "PackagePath": "staticwebassets\\assets1\\scss\\bootstrap\\_print.scss"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets1\\scss\\bootstrap\\_progress.scss",
+      "PackagePath": "staticwebassets\\assets1\\scss\\bootstrap\\_progress.scss"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets1\\scss\\bootstrap\\_reboot.scss",
+      "PackagePath": "staticwebassets\\assets1\\scss\\bootstrap\\_reboot.scss"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets1\\scss\\bootstrap\\_root.scss",
+      "PackagePath": "staticwebassets\\assets1\\scss\\bootstrap\\_root.scss"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets1\\scss\\bootstrap\\_spinners.scss",
+      "PackagePath": "staticwebassets\\assets1\\scss\\bootstrap\\_spinners.scss"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets1\\scss\\bootstrap\\_tables.scss",
+      "PackagePath": "staticwebassets\\assets1\\scss\\bootstrap\\_tables.scss"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets1\\scss\\bootstrap\\_toasts.scss",
+      "PackagePath": "staticwebassets\\assets1\\scss\\bootstrap\\_toasts.scss"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets1\\scss\\bootstrap\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\assets1\\scss\\bootstrap\\_tooltip.scss"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets1\\scss\\bootstrap\\_transitions.scss",
+      "PackagePath": "staticwebassets\\assets1\\scss\\bootstrap\\_transitions.scss"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets1\\scss\\bootstrap\\_type.scss",
+      "PackagePath": "staticwebassets\\assets1\\scss\\bootstrap\\_type.scss"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets1\\scss\\bootstrap\\_utilities.scss",
+      "PackagePath": "staticwebassets\\assets1\\scss\\bootstrap\\_utilities.scss"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets1\\scss\\bootstrap\\_variables.scss",
+      "PackagePath": "staticwebassets\\assets1\\scss\\bootstrap\\_variables.scss"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets1\\scss\\bootstrap\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\assets1\\scss\\bootstrap\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets1\\scss\\bootstrap\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\assets1\\scss\\bootstrap\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets1\\scss\\bootstrap\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\assets1\\scss\\bootstrap\\bootstrap.scss"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets1\\scss\\bootstrap\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\assets1\\scss\\bootstrap\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets1\\scss\\bootstrap\\mixins\\_background-variant.scss",
+      "PackagePath": "staticwebassets\\assets1\\scss\\bootstrap\\mixins\\_background-variant.scss"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets1\\scss\\bootstrap\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\assets1\\scss\\bootstrap\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets1\\scss\\bootstrap\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\assets1\\scss\\bootstrap\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets1\\scss\\bootstrap\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\assets1\\scss\\bootstrap\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets1\\scss\\bootstrap\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\assets1\\scss\\bootstrap\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets1\\scss\\bootstrap\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\assets1\\scss\\bootstrap\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets1\\scss\\bootstrap\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\assets1\\scss\\bootstrap\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets1\\scss\\bootstrap\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\assets1\\scss\\bootstrap\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets1\\scss\\bootstrap\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\assets1\\scss\\bootstrap\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets1\\scss\\bootstrap\\mixins\\_float.scss",
+      "PackagePath": "staticwebassets\\assets1\\scss\\bootstrap\\mixins\\_float.scss"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets1\\scss\\bootstrap\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\assets1\\scss\\bootstrap\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets1\\scss\\bootstrap\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\assets1\\scss\\bootstrap\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets1\\scss\\bootstrap\\mixins\\_grid-framework.scss",
+      "PackagePath": "staticwebassets\\assets1\\scss\\bootstrap\\mixins\\_grid-framework.scss"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets1\\scss\\bootstrap\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\assets1\\scss\\bootstrap\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets1\\scss\\bootstrap\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\assets1\\scss\\bootstrap\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets1\\scss\\bootstrap\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\assets1\\scss\\bootstrap\\mixins\\_image.scss"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets1\\scss\\bootstrap\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\assets1\\scss\\bootstrap\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets1\\scss\\bootstrap\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\assets1\\scss\\bootstrap\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets1\\scss\\bootstrap\\mixins\\_nav-divider.scss",
+      "PackagePath": "staticwebassets\\assets1\\scss\\bootstrap\\mixins\\_nav-divider.scss"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets1\\scss\\bootstrap\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\assets1\\scss\\bootstrap\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets1\\scss\\bootstrap\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\assets1\\scss\\bootstrap\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets1\\scss\\bootstrap\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\assets1\\scss\\bootstrap\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets1\\scss\\bootstrap\\mixins\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\assets1\\scss\\bootstrap\\mixins\\_screen-reader.scss"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets1\\scss\\bootstrap\\mixins\\_size.scss",
+      "PackagePath": "staticwebassets\\assets1\\scss\\bootstrap\\mixins\\_size.scss"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets1\\scss\\bootstrap\\mixins\\_table-row.scss",
+      "PackagePath": "staticwebassets\\assets1\\scss\\bootstrap\\mixins\\_table-row.scss"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets1\\scss\\bootstrap\\mixins\\_text-emphasis.scss",
+      "PackagePath": "staticwebassets\\assets1\\scss\\bootstrap\\mixins\\_text-emphasis.scss"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets1\\scss\\bootstrap\\mixins\\_text-hide.scss",
+      "PackagePath": "staticwebassets\\assets1\\scss\\bootstrap\\mixins\\_text-hide.scss"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets1\\scss\\bootstrap\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\assets1\\scss\\bootstrap\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets1\\scss\\bootstrap\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\assets1\\scss\\bootstrap\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets1\\scss\\bootstrap\\mixins\\_visibility.scss",
+      "PackagePath": "staticwebassets\\assets1\\scss\\bootstrap\\mixins\\_visibility.scss"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets1\\scss\\bootstrap\\utilities\\_align.scss",
+      "PackagePath": "staticwebassets\\assets1\\scss\\bootstrap\\utilities\\_align.scss"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets1\\scss\\bootstrap\\utilities\\_background.scss",
+      "PackagePath": "staticwebassets\\assets1\\scss\\bootstrap\\utilities\\_background.scss"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets1\\scss\\bootstrap\\utilities\\_borders.scss",
+      "PackagePath": "staticwebassets\\assets1\\scss\\bootstrap\\utilities\\_borders.scss"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets1\\scss\\bootstrap\\utilities\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\assets1\\scss\\bootstrap\\utilities\\_clearfix.scss"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets1\\scss\\bootstrap\\utilities\\_display.scss",
+      "PackagePath": "staticwebassets\\assets1\\scss\\bootstrap\\utilities\\_display.scss"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets1\\scss\\bootstrap\\utilities\\_embed.scss",
+      "PackagePath": "staticwebassets\\assets1\\scss\\bootstrap\\utilities\\_embed.scss"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets1\\scss\\bootstrap\\utilities\\_flex.scss",
+      "PackagePath": "staticwebassets\\assets1\\scss\\bootstrap\\utilities\\_flex.scss"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets1\\scss\\bootstrap\\utilities\\_float.scss",
+      "PackagePath": "staticwebassets\\assets1\\scss\\bootstrap\\utilities\\_float.scss"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets1\\scss\\bootstrap\\utilities\\_overflow.scss",
+      "PackagePath": "staticwebassets\\assets1\\scss\\bootstrap\\utilities\\_overflow.scss"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets1\\scss\\bootstrap\\utilities\\_position.scss",
+      "PackagePath": "staticwebassets\\assets1\\scss\\bootstrap\\utilities\\_position.scss"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets1\\scss\\bootstrap\\utilities\\_screenreaders.scss",
+      "PackagePath": "staticwebassets\\assets1\\scss\\bootstrap\\utilities\\_screenreaders.scss"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets1\\scss\\bootstrap\\utilities\\_shadows.scss",
+      "PackagePath": "staticwebassets\\assets1\\scss\\bootstrap\\utilities\\_shadows.scss"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets1\\scss\\bootstrap\\utilities\\_sizing.scss",
+      "PackagePath": "staticwebassets\\assets1\\scss\\bootstrap\\utilities\\_sizing.scss"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets1\\scss\\bootstrap\\utilities\\_spacing.scss",
+      "PackagePath": "staticwebassets\\assets1\\scss\\bootstrap\\utilities\\_spacing.scss"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets1\\scss\\bootstrap\\utilities\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\assets1\\scss\\bootstrap\\utilities\\_stretched-link.scss"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets1\\scss\\bootstrap\\utilities\\_text.scss",
+      "PackagePath": "staticwebassets\\assets1\\scss\\bootstrap\\utilities\\_text.scss"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets1\\scss\\bootstrap\\utilities\\_visibility.scss",
+      "PackagePath": "staticwebassets\\assets1\\scss\\bootstrap\\utilities\\_visibility.scss"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets1\\scss\\bootstrap\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\assets1\\scss\\bootstrap\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets1\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\assets1\\scss\\style.scss"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets2\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets2\\css\\style.css"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets2\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\assets2\\css\\style.css.map"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets2\\css\\style.scss",
+      "PackagePath": "staticwebassets\\assets2\\css\\style.scss"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets2\\fonts\\material-design-iconic-font\\css\\material-design-iconic-font.css",
+      "PackagePath": "staticwebassets\\assets2\\fonts\\material-design-iconic-font\\css\\material-design-iconic-font.css"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets2\\fonts\\material-design-iconic-font\\css\\material-design-iconic-font.min.css",
+      "PackagePath": "staticwebassets\\assets2\\fonts\\material-design-iconic-font\\css\\material-design-iconic-font.min.css"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets2\\fonts\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.eot",
+      "PackagePath": "staticwebassets\\assets2\\fonts\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.eot"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets2\\fonts\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.svg",
+      "PackagePath": "staticwebassets\\assets2\\fonts\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.svg"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets2\\fonts\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.ttf",
+      "PackagePath": "staticwebassets\\assets2\\fonts\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.ttf"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets2\\fonts\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.woff",
+      "PackagePath": "staticwebassets\\assets2\\fonts\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.woff"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets2\\fonts\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.woff2",
+      "PackagePath": "staticwebassets\\assets2\\fonts\\material-design-iconic-font\\fonts\\Material-Design-Iconic-Font.woff2"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets2\\fonts\\muli\\Muli-Bold.ttf",
+      "PackagePath": "staticwebassets\\assets2\\fonts\\muli\\Muli-Bold.ttf"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets2\\fonts\\muli\\Muli-Regular.ttf",
+      "PackagePath": "staticwebassets\\assets2\\fonts\\muli\\Muli-Regular.ttf"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets2\\fonts\\muli\\Muli-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\assets2\\fonts\\muli\\Muli-SemiBold.ttf"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets2\\images\\Cake.jpg",
+      "PackagePath": "staticwebassets\\assets2\\images\\Cake.jpg"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets2\\images\\Cake1.jpg",
+      "PackagePath": "staticwebassets\\assets2\\images\\Cake1.jpg"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets2\\images\\bg-registration-form-2.jpg",
+      "PackagePath": "staticwebassets\\assets2\\images\\bg-registration-form-2.jpg"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets2\\images\\registration-form-2.jpg",
+      "PackagePath": "staticwebassets\\assets2\\images\\registration-form-2.jpg"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\assets\\css\\responsive.css"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont3e6e.eot"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont3e6e.svg"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont3e6e.ttf"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont3e6e.woff"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont3e6e.woff2"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\fonts\\fontawesome-webfontd41d.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfontd41d.eot"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\img\\banner\\banner-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\banner-bg.jpg"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\img\\blog\\column\\blog-c-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\column\\blog-c-1.jpg"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\img\\blog\\column\\blog-c-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\column\\blog-c-2.jpg"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\img\\blog\\column\\blog-c-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\column\\blog-c-3.jpg"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\img\\blog\\column\\blog-c-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\column\\blog-c-4.jpg"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\img\\blog\\column\\blog-c-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\column\\blog-c-5.jpg"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\img\\blog\\column\\blog-c-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\column\\blog-c-6.jpg"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\img\\blog\\column\\blog-c-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\column\\blog-c-7.jpg"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\img\\blog\\column\\blog-c-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\column\\blog-c-8.jpg"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\img\\blog\\latest-news\\l-news-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\latest-news\\l-news-1.jpg"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\img\\blog\\latest-news\\l-news-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\latest-news\\l-news-2.jpg"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\img\\blog\\latest-news\\l-news-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\latest-news\\l-news-3.jpg"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\img\\blog\\main-blog\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\main-blog\\blog-1.jpg"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\img\\blog\\main-blog\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\main-blog\\blog-2.jpg"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\img\\blog\\main-blog\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\main-blog\\blog-3.jpg"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\img\\blog\\main-blog\\blog-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\main-blog\\blog-4.jpg"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\img\\blog\\main-blog\\blog-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\main-blog\\blog-5.jpg"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\img\\blog\\recent-post\\r-post-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\recent-post\\r-post-1.jpg"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\img\\blog\\recent-post\\r-post-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\recent-post\\r-post-2.jpg"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\img\\blog\\recent-post\\r-post-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\recent-post\\r-post-3.jpg"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\img\\blog\\recent-post\\r-post-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\recent-post\\r-post-4.jpg"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\img\\cake-feature\\arivals-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\cake-feature\\arivals-1.jpg"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\img\\cake-feature\\arivals-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\cake-feature\\arivals-2.jpg"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\img\\cake-feature\\arivals-pic.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\cake-feature\\arivals-pic.jpg"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\img\\cake-feature\\c-feature-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\cake-feature\\c-feature-1.jpg"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\img\\cake-feature\\c-feature-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\cake-feature\\c-feature-2.jpg"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\img\\cake-feature\\c-feature-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\cake-feature\\c-feature-3.jpg"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\img\\cake-feature\\c-feature-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\cake-feature\\c-feature-4.jpg"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\img\\cake-feature\\c-feature-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\cake-feature\\c-feature-5.jpg"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\img\\cake-feature\\c-feature-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\cake-feature\\c-feature-6.jpg"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\img\\cake-feature\\c-feature-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\cake-feature\\c-feature-7.jpg"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\img\\cake-feature\\c-feature-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\cake-feature\\c-feature-8.jpg"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\img\\cake-feature\\c-feature-9.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\cake-feature\\c-feature-9.jpg"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\img\\cake-feature\\welcome-right.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\cake-feature\\welcome-right.jpg"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\img\\checkout-card.png",
+      "PackagePath": "staticwebassets\\assets\\img\\checkout-card.png"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\img\\chef\\chef-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\chef\\chef-1.jpg"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\img\\chef\\chef-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\chef\\chef-2.jpg"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\img\\chef\\chef-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\chef\\chef-3.jpg"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\img\\client\\client-1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\client\\client-1.png"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\img\\client\\client-2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\client\\client-2.png"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\img\\comment\\comment-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\comment\\comment-1.jpg"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\img\\comming-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\comming-bg.jpg"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\img\\error-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\error-bg.jpg"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\img\\faq-form-right.png",
+      "PackagePath": "staticwebassets\\assets\\img\\faq-form-right.png"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\img\\fav-icon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\fav-icon.png"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\img\\footer-logo.png",
+      "PackagePath": "staticwebassets\\assets\\img\\footer-logo.png"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\img\\home-slider\\slider-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home-slider\\slider-1.jpg"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\img\\home-slider\\slider-10.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home-slider\\slider-10.jpg"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\img\\home-slider\\slider-11.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home-slider\\slider-11.jpg"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\img\\home-slider\\slider-12.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home-slider\\slider-12.jpg"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\img\\home-slider\\slider-13.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home-slider\\slider-13.jpg"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\img\\home-slider\\slider-14.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home-slider\\slider-14.jpg"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\img\\home-slider\\slider-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home-slider\\slider-2.jpg"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\img\\home-slider\\slider-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home-slider\\slider-3.jpg"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\img\\home-slider\\slider-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home-slider\\slider-4.jpg"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\img\\home-slider\\slider-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home-slider\\slider-5.jpg"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\img\\home-slider\\slider-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home-slider\\slider-6.jpg"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\img\\home-slider\\slider-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home-slider\\slider-7.jpg"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\img\\home-slider\\slider-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home-slider\\slider-8.jpg"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\img\\home-slider\\slider-9.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home-slider\\slider-9.jpg"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\img\\logo-2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo-2.png"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\img\\logo-3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo-3.png"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\img\\logo-circle-2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo-circle-2.png"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\img\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo.png"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\img\\map-marker.png",
+      "PackagePath": "staticwebassets\\assets\\img\\map-marker.png"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\img\\menu-draw-five.png",
+      "PackagePath": "staticwebassets\\assets\\img\\menu-draw-five.png"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\img\\menu-draw.png",
+      "PackagePath": "staticwebassets\\assets\\img\\menu-draw.png"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\img\\menu-left.png",
+      "PackagePath": "staticwebassets\\assets\\img\\menu-left.png"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\img\\menu-right.png",
+      "PackagePath": "staticwebassets\\assets\\img\\menu-right.png"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\img\\our-bakery\\bakery-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\our-bakery\\bakery-1.jpg"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\img\\our-bakery\\bakery-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\our-bakery\\bakery-2.jpg"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\img\\our-bakery\\bakery-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\our-bakery\\bakery-3.jpg"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\img\\portfolio\\portfolio-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\portfolio-1.jpg"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\img\\portfolio\\portfolio-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\portfolio-2.jpg"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\img\\portfolio\\portfolio-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\portfolio-3.jpg"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\img\\portfolio\\portfolio-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\portfolio-4.jpg"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\img\\portfolio\\portfolio-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\portfolio-5.jpg"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\img\\portfolio\\portfolio-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\portfolio-6.jpg"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\img\\portfolio\\portfolio-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\portfolio-7.jpg"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\img\\portfolio\\portfolio-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\portfolio-8.jpg"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\img\\portfolio\\portfolio-9.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\portfolio\\portfolio-9.jpg"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\img\\product\\cart-img.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\cart-img.jpg"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\img\\product\\product-details-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\product-details-1.jpg"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\img\\product\\sale-product\\s-product-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\sale-product\\s-product-1.jpg"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\img\\product\\sale-product\\s-product-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\sale-product\\s-product-2.jpg"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\img\\product\\sale-product\\s-product-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\sale-product\\s-product-3.jpg"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\img\\product\\sale-product\\s-product-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\sale-product\\s-product-4.jpg"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\img\\recipe\\recipe-1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\recipe\\recipe-1.png"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\img\\recipe\\special-recipe.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\recipe\\special-recipe.jpg"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\img\\service-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\service-bg.jpg"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\img\\service\\service-1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\service\\service-1.png"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\img\\service\\service-2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\service\\service-2.png"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\img\\service\\service-3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\service\\service-3.png"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\img\\service\\service-4.png",
+      "PackagePath": "staticwebassets\\assets\\img\\service\\service-4.png"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\img\\service\\service-5.png",
+      "PackagePath": "staticwebassets\\assets\\img\\service\\service-5.png"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\img\\service\\service-6.png",
+      "PackagePath": "staticwebassets\\assets\\img\\service\\service-6.png"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\img\\shop-page-bg.png",
+      "PackagePath": "staticwebassets\\assets\\img\\shop-page-bg.png"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\img\\special\\special-1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\special\\special-1.png"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\img\\special\\special-2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\special\\special-2.png"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\img\\video\\video-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\video\\video-1.jpg"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\img\\w-left-techture.png",
+      "PackagePath": "staticwebassets\\assets\\img\\w-left-techture.png"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\img\\w-right-techture.png",
+      "PackagePath": "staticwebassets\\assets\\img\\w-right-techture.png"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\img\\welcome-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\welcome-bg.jpg"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\js\\comingsoon.js",
+      "PackagePath": "staticwebassets\\assets\\js\\comingsoon.js"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\js\\contact.js",
+      "PackagePath": "staticwebassets\\assets\\js\\contact.js"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\js\\gmaps.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\gmaps.min.js"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\js\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\js\\jquery.form.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.form.js"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\js\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.validate.min.js"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\js\\map-active.js",
+      "PackagePath": "staticwebassets\\assets\\js\\map-active.js"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\popper.min.js"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\js\\theme.js",
+      "PackagePath": "staticwebassets\\assets\\js\\theme.js"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\vendors\\animate-css\\animate.css",
+      "PackagePath": "staticwebassets\\assets\\vendors\\animate-css\\animate.css"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\vendors\\datetime-picker\\css\\bootstrap-datetimepicker.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendors\\datetime-picker\\css\\bootstrap-datetimepicker.min.css"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\vendors\\datetime-picker\\js\\bootstrap-datetimepicker.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\datetime-picker\\js\\bootstrap-datetimepicker.min.js"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\vendors\\datetime-picker\\js\\moment.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\datetime-picker\\js\\moment.min.js"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\vendors\\flat-icon\\Flaticon.eot",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flat-icon\\Flaticon.eot"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\vendors\\flat-icon\\Flaticon.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flat-icon\\Flaticon.svg"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\vendors\\flat-icon\\Flaticon.ttf",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flat-icon\\Flaticon.ttf"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\vendors\\flat-icon\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flat-icon\\Flaticon.woff"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\vendors\\flat-icon\\Flaticond41d.eot",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flat-icon\\Flaticond41d.eot"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\vendors\\flat-icon\\flaticon.css",
+      "PackagePath": "staticwebassets\\assets\\vendors\\flat-icon\\flaticon.css"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\vendors\\isotope\\imagesloaded.pkgd.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\isotope\\imagesloaded.pkgd.min.js"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\vendors\\isotope\\isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\isotope\\isotope.pkgd.min.js"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\vendors\\jquery-ui\\images\\ui-icons_444444_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\vendors\\jquery-ui\\images\\ui-icons_444444_256x240.png"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\vendors\\jquery-ui\\images\\ui-icons_555555_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\vendors\\jquery-ui\\images\\ui-icons_555555_256x240.png"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\vendors\\jquery-ui\\images\\ui-icons_777620_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\vendors\\jquery-ui\\images\\ui-icons_777620_256x240.png"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\vendors\\jquery-ui\\images\\ui-icons_777777_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\vendors\\jquery-ui\\images\\ui-icons_777777_256x240.png"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\vendors\\jquery-ui\\images\\ui-icons_cc0000_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\vendors\\jquery-ui\\images\\ui-icons_cc0000_256x240.png"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\vendors\\jquery-ui\\images\\ui-icons_ffffff_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\vendors\\jquery-ui\\images\\ui-icons_ffffff_256x240.png"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\vendors\\jquery-ui\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendors\\jquery-ui\\jquery-ui.min.css"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\vendors\\jquery-ui\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\jquery-ui\\jquery-ui.min.js"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\vendors\\lightbox\\simpleLightbox.css",
+      "PackagePath": "staticwebassets\\assets\\vendors\\lightbox\\simpleLightbox.css"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\vendors\\lightbox\\simpleLightbox.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\lightbox\\simpleLightbox.min.js"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\vendors\\linearicons\\fonts\\Linearicons-Free54e9.eot",
+      "PackagePath": "staticwebassets\\assets\\vendors\\linearicons\\fonts\\Linearicons-Free54e9.eot"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\vendors\\linearicons\\fonts\\Linearicons-Free54e9.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\linearicons\\fonts\\Linearicons-Free54e9.svg"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\vendors\\linearicons\\fonts\\Linearicons-Free54e9.ttf",
+      "PackagePath": "staticwebassets\\assets\\vendors\\linearicons\\fonts\\Linearicons-Free54e9.ttf"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\vendors\\linearicons\\fonts\\Linearicons-Free54e9.woff",
+      "PackagePath": "staticwebassets\\assets\\vendors\\linearicons\\fonts\\Linearicons-Free54e9.woff"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\vendors\\linearicons\\fonts\\Linearicons-Free54e9.woff2",
+      "PackagePath": "staticwebassets\\assets\\vendors\\linearicons\\fonts\\Linearicons-Free54e9.woff2"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\vendors\\linearicons\\fonts\\Linearicons-Freed41d.eot",
+      "PackagePath": "staticwebassets\\assets\\vendors\\linearicons\\fonts\\Linearicons-Freed41d.eot"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\vendors\\linearicons\\style.css",
+      "PackagePath": "staticwebassets\\assets\\vendors\\linearicons\\style.css"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\vendors\\magnifc-popup\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\magnifc-popup\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\vendors\\magnifc-popup\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\assets\\vendors\\magnifc-popup\\magnific-popup.css"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\vendors\\nice-select\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\assets\\vendors\\nice-select\\css\\nice-select.css"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\vendors\\nice-select\\js\\jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\nice-select\\js\\jquery.nice-select.min.js"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\vendors\\owl-carousel\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendors\\owl-carousel\\owl.carousel.min.css"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\vendors\\owl-carousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\owl-carousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\vendors\\owl-carousel\\owl.video.play.html",
+      "PackagePath": "staticwebassets\\assets\\vendors\\owl-carousel\\owl.video.play.html"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\vendors\\revolution\\assets\\coloredbg.png",
+      "PackagePath": "staticwebassets\\assets\\vendors\\revolution\\assets\\coloredbg.png"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\vendors\\revolution\\assets\\gridtile.png",
+      "PackagePath": "staticwebassets\\assets\\vendors\\revolution\\assets\\gridtile.png"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\vendors\\revolution\\assets\\gridtile_3x3.png",
+      "PackagePath": "staticwebassets\\assets\\vendors\\revolution\\assets\\gridtile_3x3.png"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\vendors\\revolution\\assets\\gridtile_3x3_white.png",
+      "PackagePath": "staticwebassets\\assets\\vendors\\revolution\\assets\\gridtile_3x3_white.png"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\vendors\\revolution\\assets\\gridtile_white.png",
+      "PackagePath": "staticwebassets\\assets\\vendors\\revolution\\assets\\gridtile_white.png"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\vendors\\revolution\\assets\\loader.gif",
+      "PackagePath": "staticwebassets\\assets\\vendors\\revolution\\assets\\loader.gif"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\vendors\\revolution\\css\\closedhand.html",
+      "PackagePath": "staticwebassets\\assets\\vendors\\revolution\\css\\closedhand.html"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\vendors\\revolution\\css\\layers.css",
+      "PackagePath": "staticwebassets\\assets\\vendors\\revolution\\css\\layers.css"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\vendors\\revolution\\css\\navigation.css",
+      "PackagePath": "staticwebassets\\assets\\vendors\\revolution\\css\\navigation.css"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\vendors\\revolution\\css\\openhand.html",
+      "PackagePath": "staticwebassets\\assets\\vendors\\revolution\\css\\openhand.html"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\vendors\\revolution\\css\\settings.css",
+      "PackagePath": "staticwebassets\\assets\\vendors\\revolution\\css\\settings.css"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\vendors\\revolution\\fonts\\revicons\\revicons90c6.eot",
+      "PackagePath": "staticwebassets\\assets\\vendors\\revolution\\fonts\\revicons\\revicons90c6.eot"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\vendors\\revolution\\fonts\\revicons\\revicons90c6.svg",
+      "PackagePath": "staticwebassets\\assets\\vendors\\revolution\\fonts\\revicons\\revicons90c6.svg"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\vendors\\revolution\\fonts\\revicons\\revicons90c6.ttf",
+      "PackagePath": "staticwebassets\\assets\\vendors\\revolution\\fonts\\revicons\\revicons90c6.ttf"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\vendors\\revolution\\fonts\\revicons\\revicons90c6.woff",
+      "PackagePath": "staticwebassets\\assets\\vendors\\revolution\\fonts\\revicons\\revicons90c6.woff"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\vendors\\revolution\\js\\extensions\\revolution.extension.actions.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\revolution\\js\\extensions\\revolution.extension.actions.min.js"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\vendors\\revolution\\js\\extensions\\revolution.extension.layeranimation.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\revolution\\js\\extensions\\revolution.extension.layeranimation.min.js"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\vendors\\revolution\\js\\extensions\\revolution.extension.navigation.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\revolution\\js\\extensions\\revolution.extension.navigation.min.js"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\vendors\\revolution\\js\\extensions\\revolution.extension.slideanims.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\revolution\\js\\extensions\\revolution.extension.slideanims.min.js"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\vendors\\revolution\\js\\extensions\\revolution.extension.video.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\revolution\\js\\extensions\\revolution.extension.video.min.js"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\vendors\\revolution\\js\\jquery.themepunch.revolution.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\revolution\\js\\jquery.themepunch.revolution.min.js"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\vendors\\revolution\\js\\jquery.themepunch.tools.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendors\\revolution\\js\\jquery.themepunch.tools.min.js"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\vendors\\stroke-icon\\fonts\\Stroke-Gap-Icons.eot",
+      "PackagePath": "staticwebassets\\assets\\vendors\\stroke-icon\\fonts\\Stroke-Gap-Icons.eot"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\assets\\vendors\\stroke-icon\\style.css",
+      "PackagePath": "staticwebassets\\assets\\vendors\\stroke-icon\\style.css"
+    },
+    {
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "F:\\PRN221\\Project_PRN221\\Project_PRN221\\wwwroot\\favicon.ico",
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "F:\\PRN221\\Project_PRN221\\Project_PRN221\\wwwroot\\js\\site.js",
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "F:\\PRN221\\Project_PRN221\\Project_PRN221\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "F:\\PRN221\\Project_PRN221\\Project_PRN221\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "F:\\PRN221\\Project_PRN221\\Project_PRN221\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "F:\\PRN221\\Project_PRN221\\Project_PRN221\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "F:\\PRN221\\Project_PRN221\\Project_PRN221\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "F:\\PRN221\\Project_PRN221\\Project_PRN221\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "F:\\PRN221\\Project_PRN221\\Project_PRN221\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "F:\\PRN221\\Project_PRN221\\Project_PRN221\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "F:\\PRN221\\Project_PRN221\\Project_PRN221\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "F:\\PRN221\\Project_PRN221\\Project_PRN221\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "F:\\PRN221\\Project_PRN221\\Project_PRN221\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "F:\\PRN221\\Project_PRN221\\Project_PRN221\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "F:\\PRN221\\Project_PRN221\\Project_PRN221\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "F:\\PRN221\\Project_PRN221\\Project_PRN221\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "F:\\PRN221\\Project_PRN221\\Project_PRN221\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "F:\\PRN221\\Project_PRN221\\Project_PRN221\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "F:\\PRN221\\Project_PRN221\\Project_PRN221\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "F:\\PRN221\\Project_PRN221\\Project_PRN221\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "F:\\PRN221\\Project_PRN221\\Project_PRN221\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "F:\\PRN221\\Project_PRN221\\Project_PRN221\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "F:\\PRN221\\Project_PRN221\\Project_PRN221\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "F:\\PRN221\\Project_PRN221\\Project_PRN221\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "F:\\PRN221\\Project_PRN221\\Project_PRN221\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "F:\\PRN221\\Project_PRN221\\Project_PRN221\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "F:\\PRN221\\Project_PRN221\\Project_PRN221\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "F:\\PRN221\\Project_PRN221\\Project_PRN221\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "F:\\PRN221\\Project_PRN221\\Project_PRN221\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "F:\\PRN221\\Project_PRN221\\Project_PRN221\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "F:\\PRN221\\Project_PRN221\\Project_PRN221\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "F:\\PRN221\\Project_PRN221\\Project_PRN221\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "F:\\PRN221\\Project_PRN221\\Project_PRN221\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "F:\\PRN221\\Project_PRN221\\Project_PRN221\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "F:\\PRN221\\Project_PRN221\\Project_PRN221\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "F:\\PRN221\\Project_PRN221\\Project_PRN221\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "F:\\PRN221\\Project_PRN221\\Project_PRN221\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "F:\\PRN221\\Project_PRN221\\Project_PRN221\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "F:\\PRN221\\Project_PRN221\\Project_PRN221\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "F:\\PRN221\\Project_PRN221\\Project_PRN221\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "F:\\PRN221\\Project_PRN221\\Project_PRN221\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "F:\\PRN221\\Project_PRN221\\Project_PRN221\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "F:\\PRN221\\Project_PRN221\\Project_PRN221\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "F:\\PRN221\\Project_PRN221\\Project_PRN221\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "F:\\PRN221\\Project_PRN221\\Project_PRN221\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "F:\\PRN221\\Project_PRN221\\Project_PRN221\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "F:\\PRN221\\Project_PRN221\\Project_PRN221\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "F:\\PRN221\\Project_PRN221\\Project_PRN221\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "F:\\PRN221\\Project_PRN221\\Project_PRN221\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "F:\\PRN221\\Project_PRN221\\Project_PRN221\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "F:\\PRN221\\Project_PRN221\\Project_PRN221\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "F:\\PRN221\\Project_PRN221\\Project_PRN221\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "F:\\PRN221\\Project_PRN221\\Project_PRN221\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "F:\\PRN221\\Project_PRN221\\Project_PRN221\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "F:\\PRN221\\Project_PRN221\\Project_PRN221\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "F:\\PRN221\\Project_PRN221\\Project_PRN221\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "F:\\PRN221\\Project_PRN221\\Project_PRN221\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "F:\\PRN221\\Project_PRN221\\Project_PRN221\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "F:\\PRN221\\Project_PRN221\\Project_PRN221\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

@@ -8,6 +8,13 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Pages\User\**" />
+    <Content Remove="Pages\User\**" />
+    <EmbeddedResource Remove="Pages\User\**" />
+    <None Remove="Pages\User\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore" Version="6.0.27" />
     <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="6.0.27" />
     <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="6.0.27" />
@@ -21,7 +28,36 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Pages\User\" />
+    <None Include="Pages\Blogs\Create.cshtml" />
+    <None Include="Pages\Blogs\Delete.cshtml" />
+    <None Include="Pages\Blogs\Details.cshtml" />
+    <None Include="Pages\Blogs\Edit.cshtml" />
+    <None Include="Pages\Blogs\Index.cshtml" />
+    <None Include="Pages\Categories\Create.cshtml" />
+    <None Include="Pages\Categories\Delete.cshtml" />
+    <None Include="Pages\Categories\Details.cshtml" />
+    <None Include="Pages\Categories\Edit.cshtml" />
+    <None Include="Pages\Categories\Index.cshtml" />
+    <None Include="Pages\Products\Create.cshtml" />
+    <None Include="Pages\Products\Delete.cshtml" />
+    <None Include="Pages\Products\Details.cshtml" />
+    <None Include="Pages\Products\Edit.cshtml" />
+    <None Include="Pages\Products\Index.cshtml" />
+    <None Include="wwwroot\assets1\css\.DS_Store" />
+    <None Include="wwwroot\assets1\css\bootstrap\.DS_Store" />
+    <None Include="wwwroot\assets1\css\bootstrap\mixins\.DS_Store" />
+    <None Include="wwwroot\assets1\fonts\.DS_Store" />
+    <None Include="wwwroot\assets1\images\.DS_Store" />
+    <None Include="wwwroot\assets1\js\.DS_Store" />
+    <None Include="wwwroot\assets1\scss\.DS_Store" />
+    <None Include="wwwroot\assets1\scss\bootstrap\.DS_Store" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Migrations\" />
+    <Folder Include="Pages\Cart\" />
+    <Folder Include="Pages\Menu\" />
+    <Folder Include="Pages\Orders\" />
   </ItemGroup>
 
 </Project>

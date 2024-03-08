@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ntAklQap9TpZVpJrmWSlC/zE2+JJ2tQFHkWBt4IzvmxwqOuGTh6Ze3rgJsCkrxQT5luhO+IrIZlANGnwStPXww==",
+  "dgSpecHash": "BEWhBmKCg8kIgCQ73lklZU7MkNs458p8eIlZ7QSFJNvlnZasGUCQBOTy2d83f13Hq6tJYJLo3023Hx2vos+pfw==",
   "success": true,
-  "projectFilePath": "F:\\PRN221\\Project_PRN221\\Project_PRN221\\Project_PRN221.csproj",
+  "projectFilePath": "F:\\PRN221\\CakeBakery\\CakeBakeryRP\\Project_PRN221\\Project_PRN221\\Project_PRN221.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

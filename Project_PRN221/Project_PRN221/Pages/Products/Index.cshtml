@@ -1,0 +1,167 @@
+﻿@page
+@model Project_PRN221.Pages.Products.IndexModel
+@using Project_PRN221.Models
+@{
+    ViewBag.Title = "Menu-Cake Bakery";
+    ViewBag.active = 2;
+}
+<style>
+    .activec a {
+        color: #f195b2 !important; /* Màu sắc mong muốn cho text khi active */
+    }
+</style>
+
+<body>
+    <!--================End Main Header Area =================-->
+    <section class="banner_area">
+        <div class="container">
+            <div class="banner_text">
+                <h3>Shop</h3>
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="shop.html">Shop</a></li>
+                </ul>
+            </div>
+        </div>
+    </section>
+    <!--================End Main Header Area =================-->
+    <!--================Product Area =================-->
+    <section class="product_area p_100">
+        <div class="container">
+            <div class="row product_inner_row">
+                <div class="col-lg-9">
+                    <div class="row m0 product_task_bar">
+                        <div class="product_task_inner">
+                            <div class="float-left">
+                                <a class="active" href="#"><i class="fa fa-th-large" aria-hidden="true"></i></a>
+                                <a href="#"><i class="fa fa-th-list" aria-hidden="true"></i></a>
+                                <span>Showing 1 - 9 of @ViewData["TotalCount"] results
+                                    @ViewData["CurrentCategoryId"]
+                                </span>
+                            </div>
+                            <div class="float-right dropdown">
+                                <a class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Sort By</a>
+                                <ul class="dropdown-menu">
+                                    <li>
+                                        <a asp-action="Index" asp-route-sortOrder="@ViewData["IDSortParm"]" asp-route-currentFilter="@ViewData["CurrentFilter"]" asp-route-categoryId="@ViewData["CategoryList"]">New Product</a>
+                                    </li>
+                                    <li>
+                                        <a asp-action="Index" asp-route-sortOrder="@ViewData["NameSortParm"]" asp-route-currentFilter="@ViewData["CurrentFilter"]" asp-route-categoryId="@ViewData["CategoryList"]">Name</a>
+                                    </li>
+
+                                    <li>
+                                        <a asp-action="Index" asp-route-sortOrder="@ViewData["UnitPriceSortParm"]" asp-route-currentFilter="@ViewData["CurrentFilter"]" asp-route-categoryId="@ViewData["CategoryList"]">Unit Price</a>
+                                    </li>
+                                </ul>
+                            </div>
+                          
+                        </div>
+                    </div>
+                    <div class="row product_item_inner">
+                        @foreach (var item in Model.Products)
+                        {
+                            <div class="col-lg-4 col-md-4 col-6">
+                                <div class="cake_feature_item">
+                                    <a asp-page="./Details" asp-route-id="@item.ProductId">
+                                        <div class="cake_img">
+                                            <img src="@item.Image" alt="" style="width: 100%; height: 226px;">
+                                        </div>
+                                    </a>
+                                    <div class="cake_text">
+                                        <h4 style="font-size: 22px"> @Html.DisplayFor(modelItem => item.UnitPrice)$</h4>
+                                        <a asp-page="./Details" asp-route-id="@item.ProductId"><h3> @Html.DisplayFor(modelItem => item.Name)</h3></a>
+                                        <a class="pest_btn" href="/Cart/AddToCart/?productId=@item.ProductId">Add to cart</a>
+                                    </div>
+                                </div>
+                            </div>
+                        }
+                    </div>
+                    @{
+                        var prevDisabled = !Model.Products.HasPreviousPage ? "disabled" : "";
+                        var nextDisabled = !Model.Products.HasNextPage ? "disabled" : "";
+                    }
+                    <div class="product_pagination">
+                        <div class="left_btn">
+                            <a asp-action="Index"
+                               asp-route-sortOrder="@ViewData["CurrentSort"]"
+                               asp-route-pageNumber="@(Model.Products.PageIndex - 1)"
+                               asp-route-currentFilter="@ViewData["CurrentFilter"]"
+                               asp-route-minPrice="@ViewData["MinPrice"]"
+                               asp-route-maxPrice="@ViewData["MaxPrice"]"
+                               asp-route-categoryId="@ViewData["CategoryList"]"
+                               class=" btn btn-default @prevDisabled">
+                                <i class="lnr lnr-arrow-left"></i> New posts
+                            </a>
+                        </div>
+
+                        <div class="right_btn">
+                            <a asp-action="Index"
+                               asp-route-sortOrder="@ViewData["CurrentSort"]"
+                               asp-route-pageNumber="@(Model.Products.PageIndex + 1)"
+                               asp-route-currentFilter="@ViewData["CurrentFilter"]"
+                               asp-route-minPrice="@ViewData["MinPrice"]"
+                               asp-route-maxPrice="@ViewData["MaxPrice"]"
+                               asp-route-categoryId="@ViewData["CategoryList"]"
+                               class=" btn btn-default @nextDisabled">
+                                Older posts <i class="lnr lnr-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3">
+                    <div class="product_left_sidebar">
+                        <form asp-action="Index" method="get">
+                            <aside class="left_sidebar search_widget">
+                                <div class="input-group">
+                                    <input type="text" class="form-control" placeholder="Enter Search Keywords" name="SearchString" value="@ViewData["CurrentFilter"]">
+                                    <div class="input-group-append">
+                                        <button class="btn" type="submit" value="Search"><i class="icon icon-Search"></i></button>
+                                    </div>
+                                </div>
+                            </aside>
+                            @*<div>
+                            <a asp-action="Create" class="btn" style="background-color: #f195b2; color: #fff; margin-top: -50px">Create</a>
+                            </div>*@
+                        </form>
+                        <aside class="left_sidebar p_catgories_widget">
+                            <div class="p_w_title">
+                                <h3>Product Categories</h3>
+                            </div>
+                            <ul class="list_style">
+                                @foreach (var category in ViewData["CategoryList"] as List<Category>)
+                                {
+                                    <li class="@((ViewData["CurrentCategoryId"]?.ToString() == category.CategoryId.ToString()) ? "activec" : "")">
+                                        <a asp-action="Index" asp-route-categoryId="@category.CategoryId">@category.Name</a>
+                                    </li>
+                                }
+                            </ul>
+                        </aside>
+                        <aside class="left_sidebar p_price_widget">
+                            <div class="p_w_title">
+                                <h3>Filter By Price</h3>
+                            </div>
+                            <div class="filter_price">
+                                <div id="slider-range"></div>
+                                <label for="amount">Price range:</label>
+                                <input type="text" id="amount" readonly />
+                                <a href="#" onclick="filterByPrice()">Filter</a>
+                            </div>
+                        </aside>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <script>
+        function filterByPrice() {
+            var minPrice = $("#slider-range").slider("values", 0);
+            var maxPrice = $("#slider-range").slider("values", 1);
+
+            // Chuyển hướng đến action Index với tham số minPrice và maxPrice
+            window.location.href = "/Products?minPrice=" + minPrice + "&maxPrice=" + maxPrice;
+        }
+    </script>
+
+</body>
+

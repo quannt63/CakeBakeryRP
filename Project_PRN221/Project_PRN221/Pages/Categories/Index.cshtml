@@ -1,0 +1,63 @@
+﻿@page
+@model Project_PRN221.Pages.Categories.IndexModel
+
+@{
+    ViewBag.Title = "Menu-Cake Bakery";
+    ViewBag.active = 3;
+}
+
+<body>
+
+    <!--================End Main Header Area =================-->
+    <section class="banner_area">
+        <div class="container">
+            <div class="banner_text">
+                <h3>Menu</h3>
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="menu.html">Menu</a></li>
+                </ul>
+            </div>
+        </div>
+    </section>
+    <!--================End Main Header Area =================-->
+    <!--================Recipe Menu list Area =================-->
+    <section class="price_list_area p_100">
+        <div class="container">
+            <div class="price_list_inner">
+                <div class="single_pest_title">
+                    <h2>Our Price List</h2>
+                    <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+                </div>
+                <div class="row">
+                     @foreach (var item in Model.Category) {
+                    <div class="col-lg-6">
+                        <div class="discover_item_inner">
+                            <div class="discover_item">
+                                    <h4>@Html.DisplayFor(modelItem => item.Name)</h4>
+                                    @foreach (var product in item.Products)
+                                    {
+                                        <p>@product.Name <span>@string.Format("{0:0.00}", @product.UnitPrice)$</span></p>
+                                    }
+                            </div>
+                        </div>
+                    </div>
+                     }
+                </div>
+                <div class="row our_bakery_image">
+                    <div class="col-md-4 col-6">
+                        <img class="img-fluid" src="assets/img/our-bakery/bakery-1.jpg" alt="">
+                    </div>
+                    <div class="col-md-4 col-6">
+                        <img class="img-fluid" src="assets/img/our-bakery/bakery-2.jpg" alt="">
+                    </div>
+                    <div class="col-md-4 col-6">
+                        <img class="img-fluid" src="assets/img/our-bakery/bakery-3.jpg" alt="">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</body>
+
+
