@@ -9,5 +9,19 @@ namespace Project_PRN221.Models
         [Column(TypeName = "nvarchar")]
         [StringLength(400)]
         public string Address { get; set; }
+
+        [Column(TypeName = "nvarchar")]
+        [StringLength(100)]
+        public string? Name { get; set; }
+        public bool? Sex { get; set; }
+        public DateTime? Dob { get; set; }
+        [Column(TypeName = "nvarchar")]
+        [StringLength(600)]
+        public string? Avatar { get; set; }
+
+        public virtual ICollection<Blog> Blogs { get; set; }
+        public virtual ICollection<Comment> Comments { get; set; }
+        public virtual ICollection<Feedback> Feedbacks { get; set; }
+        public virtual ICollection<Order> Orders { get; set; }
     }
 }

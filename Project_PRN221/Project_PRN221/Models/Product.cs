@@ -1,7 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 
-namespace ProjectPRN221.Models
+namespace Project_PRN221.Models
 {
     public partial class Product
     {
@@ -11,6 +12,7 @@ namespace ProjectPRN221.Models
             OrderItems = new HashSet<OrderItem>();
         }
 
+        [Key]
         public int ProductId { get; set; }
         public string? Name { get; set; }
         public decimal? UnitPrice { get; set; }

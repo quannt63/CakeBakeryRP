@@ -54,6 +54,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Folder Include="Migrations\" />
     <Folder Include="Pages\Cart\" />
     <Folder Include="Pages\Menu\" />
     <Folder Include="Pages\Orders\" />

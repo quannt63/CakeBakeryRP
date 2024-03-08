@@ -5,15 +5,16 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.AspNetCore.Mvc.Rendering;
-using ProjectPRN221.Models;
+using Project_PRN221.Models;
+using Project_PRN221.Data;
 
-namespace ProjectPRN221.Pages.Blogs
+namespace Project_PRN221.Pages.Blogs
 {
     public class CreateModel : PageModel
     {
-        private readonly ProjectPRN221.Models.BakeryCakeContext _context;
+        private readonly BakeryCakeContext _context;
 
-        public CreateModel(ProjectPRN221.Models.BakeryCakeContext context)
+        public CreateModel(BakeryCakeContext context)
         {
             _context = context;
         }
@@ -31,7 +32,7 @@ namespace ProjectPRN221.Pages.Blogs
         // To protect from overposting attacks, see https://aka.ms/RazorPagesCRUD
         public async Task<IActionResult> OnPostAsync()
         {
-          if (!ModelState.IsValid || _context.Blogs == null || Blog == null)
+            if (!ModelState.IsValid || _context.Blogs == null || Blog == null)
             {
                 return Page();
             }
